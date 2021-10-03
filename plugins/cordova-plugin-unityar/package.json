@@ -1,0 +1,61 @@
+{
+  "_from": "cordova-plugin-unityar",
+  "_id": "cordova-plugin-unityar@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-TKZH08xxS/zctA3uFivjKhTe45d3kG+R5xQMfLXbJe7qvfE9havc2d29O5a4yLUKZKRWmPwJHppF25B4iQ4c7A==",
+  "_location": "/cordova-plugin-unityar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-unityar",
+    "name": "cordova-plugin-unityar",
+    "escapedName": "cordova-plugin-unityar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-unityar/-/cordova-plugin-unityar-1.0.1.tgz",
+  "_shasum": "a6dadd008f6377521b53ee5c1f2d9204ea7594f0",
+  "_spec": "cordova-plugin-unityar",
+  "_where": "C:\\Users\\Pedro",
+  "author": {
+    "name": "Alan Jose"
+  },
+  "bugs": {
+    "url": "https://github.com/alantom1423/cordova-plugin-unityar/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-unityar",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Plugin to integrate unity3d player into a cordova application for both android and iOS platforms",
+  "homepage": "https://github.com/alantom1423/cordova-plugin-unityar#readme",
+  "keywords": [
+    "unityionic",
+    "ionicunity",
+    "cordova",
+    "unity",
+    "ionic"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cordova-plugin-unityar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alantom1423/cordova-plugin-unityar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
